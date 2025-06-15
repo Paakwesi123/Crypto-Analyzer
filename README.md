@@ -18,7 +18,7 @@ A simple and powerful data analysis project that fetches **live Bitcoin price da
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - Python 3.x
 - Pandas
